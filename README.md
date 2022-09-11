@@ -7,3 +7,5 @@ Zbior najwazniejszych / najczesciej wystepujacych algorytmow napisany w Pythonie
 
 ## Recursion
 
+##Quicksort
+
